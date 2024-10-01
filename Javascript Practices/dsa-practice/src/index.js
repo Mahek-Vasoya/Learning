@@ -1,0 +1,13 @@
+// import "./mathAlgo";
+// import "./searchAlgo";
+// import "./sortingAlgo";
+// import "./revision";
+// import "./jsDSA";
+// import "./stack";
+// import "./queue";
+// import "./circularQ";
+// import "./linklist/index";
+// import "./hashTable";
+// import "./revisionAgain";
+// import "./interview";
+import "./tree/index";

@@ -1,0 +1,1 @@
+cout << "welcome to cpp";
